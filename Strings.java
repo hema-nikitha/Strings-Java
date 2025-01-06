@@ -59,7 +59,9 @@ class Strings{
 
        String w=a.substring(3,a.length());
        System.out.println(w);
-        
+
+        // compare: 
+        // if(String(a).isequals(b))
 
         
 
